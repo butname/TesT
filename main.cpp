@@ -14,6 +14,7 @@ int main()
 
         }
     }
+kbjkghjh
     for (int i = 1; i<=n;i++){
         tong += a[i][i];
     }
